@@ -1,0 +1,25 @@
+[
+    {
+        "id": "split-datos",
+        "type": "function",
+        "z": "56f0890bcb9151a3",
+        "name": "Extraer humedad y litros",
+        "func": "const payload = msg.payload;\nconst humedadMatch = payload.match(/Humedad: (\\d+)%/);\nconst litrosMatch = payload.match(/Agua: ([\\d.]+)L/);\n\nif (humedadMatch && litrosMatch) {\n    const humedad = parseInt(humedadMatch[1]);\n    const litros = parseFloat(litrosMatch[1]);\n\n    return [\n        { payload: humedad }, // salida 1\n        { payload: litros }   // salida 2\n    ];\n}\nreturn null;",
+        "outputs": 2,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 120,
+        "wires": [
+            [
+                "humedad-gauge"
+            ],
+            [
+                "litros-gauge"
+            ]
+        ]
+    }
+]
