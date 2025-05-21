@@ -3,7 +3,7 @@
 Un sistema de riego inteligente que optimiza el uso de agua mediante sensores y programación personalizada. Desarrollado para automatizar el cuidado de plantas en jardines domésticos.
 
 ## Características Principales ✨
-- **Monitoreo en tiempo real** de humedad del suelo, temperatura ambiente
+- **Monitoreo en tiempo real** de humedad del suelo y agua regada.
 - Notificaciones push y alertas tempranas
 - Bajo consumo energético (modo sleep integrado)
 
