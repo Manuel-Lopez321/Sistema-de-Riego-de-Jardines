@@ -27,7 +27,7 @@ Un sistema de riego inteligente que optimiza el uso de agua mediante sensores y 
 ## Flujo de Node-Red
 <img src="https://i.postimg.cc/25PF3k2g/7-F736-C5-A-518-F-49-F5-B00-D-2-AB0-B7-C0-EECD.png" width="400" height="300">
 
-## 🗺️🔌 Mano de Obra JSJSJS
+## 🗺️🔌 Mano de Obra
 <img src="https://i.postimg.cc/MGgQ69dD/Imagen-de-Whats-App-2025-05-09-a-las-08-57-24-5ede1569.jpg" width="400" height="300">
 <img src="https://i.postimg.cc/RCpN4shn/Imagen-de-Whats-App-2025-05-09-a-las-08-57-25-a813cb60.jpg" width="400" height="300">
 <img src="https://i.postimg.cc/Gtj20K4q/Imagen-de-Whats-App-2025-05-09-a-las-08-57-26-5f1328fe.jpg" width="400" height="300">
