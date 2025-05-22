@@ -47,7 +47,7 @@ Un sistema de riego inteligente que optimiza el uso de agua mediante sensores y 
 https://youtube.com/shorts/LrTSJ_DvhNc?si=MSxFbJG6slE8eT0q
 
 ## 🗺️🔌 Video de aprobación.
-
+https://youtube.com/watch?v=9zJMt5iDAd8&feature=shared
 
 ## 🗺️🔌 Documento de Aprobación.
 <img src="https://i.postimg.cc/rpNB70Gy/Imagen-de-Whats-App-2025-05-21-a-las-19-37-34-81ccc45f.jpg" width="400" height="300">
